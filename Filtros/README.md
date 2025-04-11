@@ -97,8 +97,8 @@ La interfaz está dividida en secciones bien definidas, con elementos visuales e
 ---
 
 ## 🖼 Interfaz Gráfica
-![image](https://github.com/user-attachments/assets/0921b45f-b8c5-4b61-89e7-95aa8b192a50)
-![image](https://github.com/user-attachments/assets/6d287345-ab9b-4397-a80b-4d66c65bd404)
+![image](https://github.com/user-attachments/assets/370abc80-f3bc-44bf-98e7-c143d60b9b2f)
+![image](https://github.com/user-attachments/assets/a289567a-cbb4-4ce7-be8f-e01a8d956e5b)
 
 ---
 
