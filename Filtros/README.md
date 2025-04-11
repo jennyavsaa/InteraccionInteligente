@@ -104,8 +104,6 @@ La interfaz está dividida en secciones bien definidas, con elementos visuales e
 
 ## 🧪 Instrucciones para clonar y correr el repositorio
 
-Para correr el archivo principal `FILTROS.py`, asegúrate de tener tu entorno virtual activado (si estás usando uno) y que todas las dependencias estén instaladas.
-
 ### 1. Clonar el repositorio
 Primero, necesitas clonar el repositorio en tu máquina local. Para hacerlo, abre tu terminal y ejecuta el siguiente comando:
 ```bash
