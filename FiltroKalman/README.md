@@ -52,31 +52,21 @@ Función principal que:
 ### Modelo de Estado
 
 El filtro utiliza un modelo de 4 dimensiones:
-\[
-\mathbf{x} = [x, y, \dot{x}, \dot{y}]^T
-\]
 
-### Matriz de transición:
+x = [x, y, x_dot, y_dot]^T
 
-\[
-F =
-\begin{bmatrix}
-1 & 0 & 1 & 0 \\
-0 & 1 & 0 & 1 \\
-0 & 0 & 1 & 0 \\
-0 & 0 & 0 & 1 \\
-\end{bmatrix}
-\]
+#### Matriz de transición (F):
+F = 
+[ [1, 0, 1, 0],
+  [0, 1, 0, 1],
+  [0, 0, 1, 0],
+  [0, 0, 0, 1] ]
 
-### Matriz de observación:
+#### Matriz de observación (H):
+H = 
+[ [1, 0, 0, 0],
+  [0, 1, 0, 0] ]
 
-\[
-H =
-\begin{bmatrix}
-1 & 0 & 0 & 0 \\
-0 & 1 & 0 & 0 \\
-\end{bmatrix}
-\]
 
 ---
 
